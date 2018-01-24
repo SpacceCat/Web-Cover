@@ -1,0 +1,7 @@
+  background-image: url(../img/logo.png), url(../img/bg-image.jpg);
+  background-size: auto, 100% 100%;
+  background-position: 10% 10%, top center;
+  background-repeat: no-repeat;
+  height: 550px;
+  width: 100%;
+  background-color: #000;
